@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.example.digitalassetslink",
+                 "sha256_cert_fingerprints": ["A2:DA:97:2F:96:25:8A:A4:FF:12:6D:AA:5F:AD:55:DB:14:00:33:1C:50:24:A8:75:FF:5A:C0:F6:A9:B0:F4:3F"] }
+}]
